@@ -1,6 +1,9 @@
-# Olá!👋
+# Olá/Hi!👋
 Me chamo Lara e sou uma estudante de Tecnologia da Informação, Inteligência Artificial e Desenvolvimento de Software!
 Leia este repositório para conhecer mais um pouquinho sobre mim! 😉
+
+I'm Lara and I'm Information Technology, Artificial Intelligente and Software Developer student!
+Read this repertory to know a little more about me! 😉
 
 ## 🇧🇷 PT-BR:
 - 🔭 No momento não trabalho na área de TI.
@@ -13,6 +16,7 @@ Leia este repositório para conhecer mais um pouquinho sobre mim! 😉
 ## 🌎 Se conecte comigo:
 - *Linkedin:* [Lara Tancman](https://www.linkedin.com/in/lara-tancman-687b64289/)
 - *Gmail:* [Lara Tancman](mailto:laratancman@gmail.com)
+- 
 
 ## 🇺🇸🇬🇧 English:
 - 🔭 At the moment, I don’t work in Information Technology.
