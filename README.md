@@ -5,6 +5,11 @@ Leia este repositório para conhecer mais um pouquinho sobre mim! 😉
 I'm Lara and I'm Information Technology, Artificial Intelligente and Software Developer student!
 Read this repertory to know a little more about me! 😉
 
+![Java Logo](https://www.vectorlogo.zone/logos/java/java-icon.svg)
+![Python Logo](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+![SQL Logo](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
+![Oracle Logo](https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg)
+
 ## 🇧🇷 PT-BR:
 - 🔭 No momento não trabalho na área de TI.
 
