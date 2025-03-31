@@ -10,7 +10,7 @@ Leia este repositório para conhecer mais um pouquinho sobre mim! 😉
 - 📫 Estou sempre aberta a novas oportunidades!
 - 😄 Pronomes: Ela/Dela
 
-Se conecte comigo:
+## 🌎 Se conecte comigo:
 - *Linkedin:* [Lara Tancman](https://www.linkedin.com/in/lara-tancman-687b64289/)
 - *Gmail:* [Lara Tancman](mailto:laratancman@gmail.com)
 
@@ -20,3 +20,7 @@ Se conecte comigo:
 - 💬 Fun fact: I’m from Rio de Janeiro, but I’ve been living in Blumenau since 2018!
 - 📫 I’m always open to new opportunities!
 - 😄 Pronouns: She/Her
+
+  ## 🌎 Let's connect each other!
+- *Linkedin:* [Lara Tancman](https://www.linkedin.com/in/lara-tancman-687b64289/)
+- *Gmail:* [Lara Tancman](mailto:laratancman@gmail.com)
