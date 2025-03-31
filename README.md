@@ -1,4 +1,4 @@
-## Olá!👋
+# Olá!👋
 Me chamo Lara e sou uma estudante de Tecnologia da Informação, Inteligência Artificial e Desenvolvimento de Software!
 Leia este repositório para conhecer mais um pouquinho sobre mim! 😉
 
