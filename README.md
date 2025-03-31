@@ -10,6 +10,10 @@ Leia este repositório para conhecer mais um pouquinho sobre mim! 😉
 - 📫 Estou sempre aberta a novas oportunidades!
 - 😄 Pronomes: Ela/Dela
 
+Se conecte comigo:
+- **Linkedin: ** [Lara Tancman] (https://www.linkedin.com/in/lara-tancman-687b64289/)
+- **Gmail: ** [Lara Tancman] (mailto:laratancman@gmail.com)
+
 ## 🇺🇸🇬🇧 English:
 - 🔭 At the moment, I don’t work in Information Technology.
 - 🌱 I’m currently in secondary school, taking a Technical Course in Software Development (Escola SESI) & Artificial Intelligence - Entra21 (Blusoft).
