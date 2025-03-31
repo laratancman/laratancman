@@ -21,6 +21,6 @@ Leia este repositório para conhecer mais um pouquinho sobre mim! 😉
 - 📫 I’m always open to new opportunities!
 - 😄 Pronouns: She/Her
 
-  ## 🌎 Let's connect each other!
+## 🌎 Let's connect each other:
 - *Linkedin:* [Lara Tancman](https://www.linkedin.com/in/lara-tancman-687b64289/)
 - *Gmail:* [Lara Tancman](mailto:laratancman@gmail.com)
