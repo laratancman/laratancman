@@ -9,7 +9,7 @@ Read this repertory to know a little more about me! 😉
 ![Python Logo](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![SQL Logo](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
 ![Oracle Logo](https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg)
-![AI Picture](https://www.vecteezy.com/vector-art/10518719-artificial-intelligence-ai-processor-chip-vector-icon-symbol-for-graphic-design-logo-website-social-media-mobile-app-ui-illustration)
+![AI Picture]([https://www.vecteezy.com/vector-art/10518719-artificial-intelligence-ai-processor-chip-vector-icon-symbol-for-graphic-design-logo-website-social-media-mobile-app-ui-illustration](https://assets.zenn.com/strapi_assets/ai_logo_generator_369f8d5d40.jpg))
 
 ## 🇧🇷 PT-BR:
 - 🔭 No momento não trabalho na área de TI.
