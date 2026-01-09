@@ -9,13 +9,16 @@ Read this repertory to know a little more about me! 😉
 ![Python Logo](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![SQL Logo](https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg)
 ![Oracle Logo](https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg)
+![HTML Logo](https://www.vectorlogo.zone/logos/hexoio/hexoio-ar21.svg)
+![CSS Logo](https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg)
+![JS Logo](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
 
 ## 🇧🇷 PT-BR:
-- 🔭 No momento não trabalho na área de TI.
+- 🔭 No momento aberta a novas oportunidades!
 
-- 🌱 Estou cursando Ensino Médio Técnico em Desenvolvimento de Sistemas (Escola SESI) & Inteligência Artificial - Entra21 (Blusoft)
+- 🌱 Estou cursando ensino superior em Análise e Desenvolvimento de Sistemas
 - 💬 Curiosidades: Sou natural do Rio de Janeiro mas moro em Blumenau desde 2018!
-- 📫 Estou sempre aberta a novas oportunidades!
+- 📫 Adoro construir soluções funcionais e personalizadas!
 - 😄 Pronomes: Ela/Dela
 
 ## 🌎 Se conecte comigo:
@@ -23,11 +26,12 @@ Read this repertory to know a little more about me! 😉
 - *Gmail:* [Lara Tancman](mailto:laratancman@gmail.com)
 
 ## 🇺🇸🇬🇧 English:
-- 🔭 At the moment, I don’t work in Information Technology.
-- 🌱 I’m currently in secondary school, taking a Technical Course in Software Development (Escola SESI) & Artificial Intelligence - Entra21 (Blusoft).
-- 💬 Fun fact: I’m from Rio de Janeiro, but I’ve been living in Blumenau since 2018!
-- 📫 I’m always open to new opportunities!
-- 😄 Pronouns: She/Her
+-🔭 Currently open to new opportunities!
+
+-🌱 I’m pursuing a degree in Systems Analysis and Development
+-💬 Fun fact: I’m originally from Rio de Janeiro, but I’ve been living in Blumenau since 2018
+-📫 I love building functional and customized solutions!
+-😄 Pronouns: She/Her
 
 ## 🌎 Let's connect each other:
 - *Linkedin:* [Lara Tancman](https://www.linkedin.com/in/lara-tancman-687b64289/)
