@@ -26,7 +26,7 @@ Read this repertory to know a little more about me! 😉
 - *Gmail:* [Lara Tancman](mailto:laratancman@gmail.com)
 
 ## 🇺🇸🇬🇧 English:
--🔭 Currently open to new opportunities!
+- 🔭 Currently open to new opportunities!
 
 - 🌱 I’m pursuing a degree in Systems Analysis and Development
 - 💬 Fun fact: I’m originally from Rio de Janeiro, but I’ve been living in Blumenau since 2018
