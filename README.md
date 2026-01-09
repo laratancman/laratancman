@@ -28,10 +28,10 @@ Read this repertory to know a little more about me! 😉
 ## 🇺🇸🇬🇧 English:
 -🔭 Currently open to new opportunities!
 
--🌱 I’m pursuing a degree in Systems Analysis and Development
--💬 Fun fact: I’m originally from Rio de Janeiro, but I’ve been living in Blumenau since 2018
--📫 I love building functional and customized solutions!
--😄 Pronouns: She/Her
+- 🌱 I’m pursuing a degree in Systems Analysis and Development
+- 💬 Fun fact: I’m originally from Rio de Janeiro, but I’ve been living in Blumenau since 2018
+- 📫 I love building functional and customized solutions!
+- 😄 Pronouns: She/Her
 
 ## 🌎 Let's connect each other:
 - *Linkedin:* [Lara Tancman](https://www.linkedin.com/in/lara-tancman-687b64289/)
